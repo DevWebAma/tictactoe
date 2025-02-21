@@ -1,4 +1,4 @@
-import calculateWinner from "@/utils/CalculateWinner";
+import calculateWinner from "@/utils/calculateWinner";
 import Square from "./Square";
 
 type BoardProps = {
