@@ -1,3 +1,8 @@
+.board-row {
+  display: flex;
+  justify-content: center;
+  width: 306px; /* 3 squares de 100px + 2px border * 3 */
+}
 .board-row:after {
   clear: both;
   content: "";
